@@ -79,16 +79,16 @@ plt.title("Customer Segments")
 ```
 
 ## Output:
-### Elbow Method:
-![graph out](https://github.com/user-attachments/assets/e2152372-e655-4805-81a9-67ac80481b58)
+
+![ml1111](https://github.com/user-attachments/assets/a8f82be1-426d-44f3-a01d-cbdc29c21300)
 
 
-### Y-Predict:
-![y predict](https://github.com/user-attachments/assets/b16d4088-ece6-42b8-842d-f4bb64329022)
+![ml333](https://github.com/user-attachments/assets/f7f6f2a0-073d-4a92-aada-c80e951463f5)
 
 
-### Customer Segments:
-![cst out](https://github.com/user-attachments/assets/68d2e1c7-064c-49a7-947e-32b6fce58668)
+![ml222](https://github.com/user-attachments/assets/2a7b303c-1a07-46be-be06-46c5d600ff6d)
+
+
 
 
 ## Result:
